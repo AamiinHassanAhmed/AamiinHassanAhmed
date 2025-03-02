@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm [Ahmed Hassan]</h1>
-<h3 align="center">A passionate [Your Role] from [Somaliland]</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Hassan</h1>
+<h3 align="center">A passionate Full Stack Developer from Somaliland</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AamiinHassanAhmed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on **[MSG Ecommerce]**  
-- 🌱 I’m learning **[React/Framework]**  
-- 👯 I’m looking to collaborate on **[Open-source Projects]**  
-- 💬 Ask me about **[Full Stack Coding]**  
-- 📫 Reach me at **[axmedxassana@gmail.com]**  
+- 🔬 I’m currently working on **MSG Ecommerce**  
+- 🌱 I’m learning **React & Frameworks**  
+- 👯️ I’m looking to collaborate on **Open-source Projects**  
+- 💬 Ask me about **Full Stack Development**  
+- 💎 Reach me at **[axmedxassana@gmail.com](mailto:axmedxassana@gmail.com)**  
 
 ---
 
@@ -28,9 +28,9 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?AamiinHassanAhmed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiinHassanAhmed&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?amiinHassanAhmed=amiinHassanAhmed&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AamiinHassanAhmed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AamiinHassanAhmed&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamiinHassanAhmed&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
