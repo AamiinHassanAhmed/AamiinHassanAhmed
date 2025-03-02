@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?AamiinHassanAhmed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiinHassanAhmed&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiinHassanAhmed&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?amiinHassanAhmed=amiinHassanAhmed&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:axmedxassana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
