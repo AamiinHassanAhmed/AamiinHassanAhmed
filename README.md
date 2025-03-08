@@ -30,9 +30,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AamiinHassanAhmed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<p align="center">
+<div style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AamiinHassanAhmed&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamiinHassanAhmed&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
