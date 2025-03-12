@@ -6,7 +6,8 @@
 </p>
 
 - 🔬 I’m currently working on ** MSG Ecommerce**
-- - 🔬 I’m currently working on ** php Ecommerce**  
+- - 🔬 I’m currently working on ** php Ecommerce**
+  - - 🔬 I’m currently working on ** Hotel MGS**  
 - 🌱 I’m learning **React & Frameworks**  
 - 👯 I’m looking to collaborate on **Open-source Projects**  
 - 💬 Ask me about **Full Stack Development**  
