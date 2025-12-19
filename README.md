@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Eng. Ahmed Hassan</h1>
 <h3 align="center">A passionate Full Stack Developer from Somaliland</h3>
 
@@ -55,5 +57,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
