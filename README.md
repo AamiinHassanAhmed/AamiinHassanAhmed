@@ -15,7 +15,7 @@
 
 - 🔬 Currently building **MSG E-commerce Platform**
 - 🛒 Working on **PHP-based E-commerce Systems hotel **
-- 🚀 **Xalkadoon Project** – *Coming Soon*
+- 🚀 **rejo-beer Project** – *Coming Soon*
 - 🌱 Learning **React, Modern Frameworks & Best Practices**
 - 👯 Open to collaborating on **Open-Source Projects**
 - 💬 Ask me about **Full Stack Web Development**
