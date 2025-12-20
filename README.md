@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eng. Ahmed Hassan</h1>
-<h3 align="center">A Passionate Full Stack Developer from Somaliland 🇸🇴</h3>
+<h3 align="center">A Passionate Full Stack Developer from Somaliland</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AamiinHassanAhmed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🔬 Currently building **MSG E-commerce Platform**
-- 🛒 Working on **PHP-based E-commerce Systems**
+- 🛒 Working on **PHP-based E-commerce Systems hotel **
 - 🚀 **Xalkadoon Project** – *Coming Soon*
 - 🌱 Learning **React, Modern Frameworks & Best Practices**
 - 👯 Open to collaborating on **Open-Source Projects**
