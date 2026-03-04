@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔬 Currently building **MSG E-commerce Platform**
+
 - 🛒 Working on **PHP-based E-commerce Systems hotel **
 - 🚀 **rejo-beer Project** – *Coming Soon*
 - 🌱 Learning **React, Modern Frameworks & Best Practices**
