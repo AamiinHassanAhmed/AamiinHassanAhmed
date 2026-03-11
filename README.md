@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eng. Ahmed Hassan</h1>
+<h1 align="center">Hi 👋, I'm Eng. Ahmed Hassan Ahmed</h1>
 <h3 align="center">A Passionate Full Stack Developer from Somaliland</h3>
 <h3 align="center">learn UI/UX design</h3>
 
